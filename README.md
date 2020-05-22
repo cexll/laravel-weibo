@@ -9,7 +9,7 @@
 
 ## 预览
 
-![预览](img/1.png)
+![预览](./img/1.png)
 
 
 ## About Laravel
